@@ -1,0 +1,22 @@
+{
+  "name": "passport-saml-example",
+  "version": "0.0.0",
+  "description": "A test web app that connects to TM PT Identity Provider.",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "connect-ensure-login": "^0.1.1",
+    "cors": "^2.8.5",
+    "debug": "^4.2.0",
+    "dotenv": "4.0.0",
+    "express": "4.16.2",
+    "express-session": "1.15.6",
+    "https-proxy-agent": "^5.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^1.11.0",
+    "passport": "0.4.x",
+    "passport-oauth2": "^1.5.0",
+    "passport-oauth2-refresh": "^2.0.0",
+    "request": "^2.88.2",
+    "util": "0.11.0"
+  }
+}
